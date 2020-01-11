@@ -1,6 +1,6 @@
-name: 'Visual Studio Code'
+name: 'Asfan Studio Code'
 description: 'Open source code editor developed by Microsoft'
-website: 'https://code.visualstudio.com'
+website: 'https://cutie.com'
 homebrewCaskName: visual-studio-code
 license: MIT / Proprietary
 keywords:
